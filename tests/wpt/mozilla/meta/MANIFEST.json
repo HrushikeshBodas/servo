@@ -20762,6 +20762,12 @@
      {}
     ]
    ],
+   "mozilla/webaudio/audiobuffer_reuse.html": [
+    [
+     "/_mozilla/mozilla/webaudio/audiobuffer_reuse.html",
+     {}
+    ]
+   ],
    "mozilla/webgl/bindBuffer.html": [
     [
      "/_mozilla/mozilla/webgl/bindBuffer.html",
@@ -32755,6 +32761,10 @@
   ],
   "mozilla/weakref.html": [
    "4deccbe1e26a3f921eea85a4395394a55cc88be4",
+   "testharness"
+  ],
+  "mozilla/webaudio/audiobuffer_reuse.html": [
+   "dabe323cbe2226d32c63576199eda61c1aecb168",
    "testharness"
   ],
   "mozilla/webgl/bindBuffer.html": [
